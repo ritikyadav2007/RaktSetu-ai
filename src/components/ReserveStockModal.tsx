@@ -175,3 +175,4 @@ export const ReserveStockModal: React.FC<ReserveStockModalProps> = ({
     </div>
   );
 };
+

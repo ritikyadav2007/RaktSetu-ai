@@ -439,3 +439,4 @@ export const DashboardsSection: React.FC<DashboardsSectionProps> = ({
     </section>
   );
 };
+

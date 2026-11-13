@@ -95,3 +95,4 @@ http://localhost:3000
 ## ⚖️ Statutory Healthcare Disclaimer
 
 *RaktSetu is a digital emergency coordination platform. RaktSetu does not buy, sell, collect, or store physical blood products. All biological collection, screening (HIV 1&2, Hepatitis B, Hepatitis C, Syphilis, Malaria), cross-matching, storage, and distribution are conducted strictly under licensed blood centres approved by the Drugs Controller General of India (DCGI) and State Licensing Authorities in accordance with the Drugs and Cosmetics Act.*
+

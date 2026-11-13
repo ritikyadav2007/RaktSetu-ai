@@ -640,3 +640,4 @@ export const BLOOD_COMPATIBILITY: Record<BloodGroup, { canReceiveFrom: BloodGrou
     canDonateTo: ['O-', 'O+', 'A-', 'A+', 'B-', 'B+', 'AB-', 'AB+'] // Universal red cell donor for ABO
   }
 };
+

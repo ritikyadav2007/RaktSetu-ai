@@ -402,3 +402,4 @@ export const BloodSearchSection: React.FC<BloodSearchSectionProps> = ({
     </section>
   );
 };
+

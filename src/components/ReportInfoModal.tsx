@@ -136,3 +136,4 @@ export const ReportInfoModal: React.FC<ReportInfoModalProps> = ({
     </div>
   );
 };
+
